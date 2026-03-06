@@ -1,0 +1,701 @@
+﻿product_id,product_name,category,price
+10001,Samsung 43 inch 4K Smart LED TV,Electronics,32999
+10002,boAt Airdopes 141 True Wireless Earbuds,Headphones & Earphones,1499
+10003,Redmi 13C 5G Smartphone (8GB+256GB),Mobile Phones,11999
+10004,Lenovo IdeaPad Slim 3 Intel i5 12th Gen Laptop,Laptops,48990
+10005,Noise ColorFit Ultra 3 Smartwatch,Fitness & Wearables,3499
+10006,Levi's Men's Slim Fit Jeans,Clothing,2299
+10007,Adidas Men's Running Shoes - Duramo,Footwear,3499
+10008,Fastrack Analog Watch for Men,Accessories,1499
+10009,Philips Air Fryer HD9252/90 4.1L,Home Appliances,8999
+10010,Prestige Popular Plus Induction Base Pressure Cooker 5L,Kitchenware,2199
+10011,Wooden Study Table with Bookshelf,Furniture,6999
+10012,Rich Dad Poor Dad by Robert Kiyosaki,Books,349
+10013,Classmate Notebook A4 200 Pages,Stationery,89
+10014,Maybelline SuperStay Matte Ink Lipstick,Beauty,599
+10015,Dove Intense Repair Shampoo 650ml,Personal Care,349
+10016,Fortune Soyabean Oil 5L pouch,Groceries,895
+10017,Lay's India's Magic Masala Chips 90g,Snacks,45
+10018,Taj Mahal Premium Tea 1kg,Beverages,499
+10019,SG Sunny Tonny English Willow Cricket Bat,Sports,3499
+10020,Amazon Basics Yoga Mat 6mm,Fitness,799
+10021,JBL Flip 6 Portable Bluetooth Speaker,Electronics,7999
+10022,Realme Buds Air 6 Pro,Headphones & Earphones,4999
+10023,Poco X6 5G (12GB+512GB),Mobile Phones,24999
+10024,HP 15s Intel Core i5 12th Gen Laptop,Laptops,52990
+10025,Fire-Boltt Ninja Call Pro Plus Smartwatch,Fitness & Wearables,2499
+10026,H&M Oversized Cotton T-Shirt,Clothing,799
+10027,Nike Revolution 7 Running Shoes,Footwear,4499
+10028,Polarized Sunglasses UV400,Accessories,699
+10029,Bajaj GX-8 750W Mixer Grinder,Home Appliances,3499
+10030,Hawkins Futura Non-Stick Kadhai 3L,Kitchenware,1299
+10031,Ergonomic Office Chair with Lumbar Support,Furniture,8999
+10032,Atomic Habits by James Clear,Books,449
+10033,Cello Gripper Ball Pen Pack of 25,Stationery,199
+10034,Lakmé Absolute Matte Melt Mini Lipstick,Beauty,399
+10035,Head & Shoulders Anti-Dandruff Shampoo 650ml,Personal Care,399
+10036,Aashirvaad Superior MP Atta 10kg,Groceries,499
+10037,Parle Monaco Classic Biscuits 800g,Snacks,129
+10038,Nescafé Gold Blend Coffee 100g,Beverages,349
+10039,Yonex Nanoray Light 18i Badminton Racket,Sports,1899
+10040,Adjustable Skipping Rope with Counter,Fitness,399
+10041,Amazon Echo Dot (5th Gen) with Clock,Smart Home,4999
+10042,boAt Rockerz 255 Pro+ Neckband,Headphones & Earphones,1299
+10043,Motorola Edge 50 Fusion 5G,Mobile Phones,22999
+10044,Acer Aspire 7 Gaming Laptop Ryzen 5,Laptops,64990
+10045,Titan Crest Smartwatch,Fitness & Wearables,6999
+10046,Raymond Men's Formal Shirt,Clothing,1499
+10047,Sparx Men's Canvas Sneakers,Footwear,1199
+10048,Wildcraft 45L Travel Backpack,Accessories,1899
+10049,Usha Electric Kettle 1.8L,Home Appliances,999
+10050,Borosil Glass Lunch Box Set 3 pcs,Kitchenware,799
+10051,Queen Size Memory Foam Mattress,Furniture,18999
+10052,The Power of Your Subconscious Mind,Books,199
+10053,Post-it Notes 3x3 100 Sheets,Stationery,149
+10054,Nivea Soft Light Moisturiser 200ml,Beauty,249
+10055,Ariel Matic Front Load Detergent 4kg,Groceries,899
+10056,Haldiram's Bhujia 1kg,Snacks,349
+10057,Tetley Green Tea 100 Bags,Beverages,299
+10058,Nivia Storm Football,Sports,599
+10059,Adjustable Dumbbell Set 20kg,Fitness,3999
+10060,Syska 30W LED Bulb Smart,Electronics,799
+10061,Sony WH-CH720N Wireless Headphones,Headphones & Earphones,9999
+10062,Vivo T3 5G (8GB+128GB),Mobile Phones,19999
+10063,Dell Vostro 14 Thin & Light Laptop,Laptops,45990
+10064,NoiseFit Halo Plus Smartwatch,Fitness & Wearables,3999
+10065,Women Rayon Anarkali Kurti,Clothing,999
+10066,Bata Comfit Slippers,Footwear,799
+10067,Wrist Band Fitness Tracker Strap,Accessories,299
+10068,Havells 1200mm Ceiling Fan,Home Appliances,2499
+10069,Prestige Omega Deluxe Grill Pan,Kitchenware,1499
+10070,Wall Shelf Set of 3,Furniture,1999
+10071,Rich Dad's Cashflow Quadrant,Books,399
+10072,Faber-Castell Colour Pencils 24 Shades,Stationery,199
+10073,Ponds Super Light Gel Moisturiser,Beauty,199
+10074,Harpic Power Plus Toilet Cleaner 1L,Personal Care,149
+10075,Basmati Rice India Gate 5kg,Groceries,899
+10076,Pringles Original Chips 110g,Snacks,149
+10077,Bournvita Health Drink 500g,Beverages,299
+10078,Cosco Vinyl Dumbbells 3kg Pair,Fitness,799
+10079,TP-Link WiFi Range Extender,Electronics,1499
+10080,OnePlus Nord Buds 2r,Headphones & Earphones,2299
+10081,Samsung Galaxy M35 5G,Mobile Phones,19999
+10082,HP 14s Intel Core i3 Laptop,Laptops,36990
+10083,boAt Storm Infinity Smartwatch,Fitness & Wearables,2999
+10084,Men Cargo Shorts,Clothing,999
+10085,Puma Smash V2 Sneakers,Footwear,2999
+10086,Laptop Sleeve 15.6 inch,Accessories,599
+10087,Morphy Richards 2 Slice Toaster,Home Appliances,1499
+10088,Milton Thermosteel Flask 1L,Kitchenware,899
+10089,Single Bed with Box Storage,Furniture,14999
+10090,You Are the Placebo by Joe Dispenza,Books,499
+10091,Camlin Permanent Marker Pack of 10,Stationery,149
+10092,Revlon ColorStay Foundation,Beauty,999
+10093,Closeup Ever Fresh Gel Toothpaste,Personal Care,99
+10094,Saffola Gold Oil 5L,Groceries,999
+10095,Bingo Tedhe Medhe 66g,Snacks,20
+10096,Lipton Green Tea 100 Bags,Beverages,249
+10097,Decathlon Football Shin Guards,Sports,499
+10098,Hand Grip Strengthener,Fitness,299
+10099,Anker 20W USB-C Charger,Electronics,999
+10100,JBL Tune 760NC Headphones,Headphones & Earphones,5999
+10101,Realme Narzo 70 Pro 5G,Mobile Phones,24999
+10102,Asus Vivobook Go 15,Laptops,36990
+10103,Casio G-Shock Analog-Digital Watch,Accessories,7999
+10104,Women Palazzo Pants,Clothing,799
+10105,Liberty Casual Loafers,Footwear,1299
+10106,Trimmer for Men,Personal Care,1499
+10107,Induction Base Non-Stick Tawa 28cm,Kitchenware,799
+10108,Wall Clock Modern,Home Decor,999
+10109,The Psychology of Money,Books,299
+10110,Pilot V5 Roller Ball Pen Blue,Stationery,45
+10111,Garnier Men Acno Fight Face Wash,Personal Care,149
+10112,Santoor Sandal & Turmeric Soap Pack of 4,Personal Care,99
+10113,Sunfeast Dark Fantasy Choco Fills,Snacks,120
+10114,B Natural Mixed Fruit Juice 1L,Beverages,89
+10115,Cosco Badminton Shuttlecock Pack of 6,Sports,399
+10116,Resistance Tube Set,Fitness,599
+10117,MI 33W SonicCharge Charger,Electronics,799
+10118,Noise Air Buds Pro,Headphones & Earphones,2499
+10119,Oppo K12x 5G,Mobile Phones,13999
+10120,Lenovo V15 G4 Laptop AMD Ryzen 5,Laptops,42990
+10121,Ambrane 20000mAh Power Bank,Accessories,1999
+10122,Men Track Pant,Clothing,899
+10123,Asian Casual Shoes,Footwear,999
+10124,Waterproof Dry Bag 10L,Accessories,799
+10125,Kent Ace 8L RO Water Purifier,Home Appliances,14999
+10126,Borosil Glass Storage Container Set,Kitchenware,999
+10127,TV Unit with Storage,Furniture,12999
+10128,How to Win Friends and Influence People,Books,249
+10129,Stapler Small with Pins,Stationery,99
+10130,Himalaya Neem Face Wash,Beauty,149
+10131,Dettol Handwash 675ml,Personal Care,149
+10132,Surya Gold Basmati Rice 5kg,Groceries,799
+10133,Uncle Chipps Magic Masala,Snacks,25
+10134,Boost Health Energy Drink 500g,Beverages,249
+10135,Nivia Storm Football,Sports,599
+10136,Push-up Bars,Fitness,499
+10137,Zebronics Zeb-Sound Bomb X1 Earbuds,Headphones & Earphones,1299
+10138,Infinix Note 40 5G,Mobile Phones,17999
+10139,HP 255 G9 Ryzen 5 Laptop,Laptops,39990
+10140,boAt Xtend Sport Smartwatch,Fitness & Wearables,2499
+10141,Women Crop Top,Clothing,599
+10142,Bata Power Slippers,Footwear,699
+10143,Umbrella Folding,Accessories,399
+10144,Orpat Hand Blender 400W,Home Appliances,999
+10145,Glass Measuring Jug 1L,Kitchenware,399
+10146,Shoe Rack 3 Tier,Furniture,2499
+10147,The Monk Who Sold His Ferrari,Books,199
+10148,Highlighter Yellow Pack of 5,Stationery,99
+10149,Lotus Herbals Sunscreen SPF 50,Beauty,399
+10150,Pepsodent Germi Check Toothpaste,Personal Care,89
+10151,Patanjali Dant Kanti Toothpaste,Personal Care,75
+10152,Saffola Oats 1kg,Groceries,199
+10153,50-50 Maska Chaska Biscuits,Snacks,50
+10154,Real Fruit Power Juice Guava 1L,Beverages,89
+10155,Decathlon Tennis Racket,Sports,1499
+10156,Ab Wheel Roller,Fitness,499
+10157,D-Link 8 Port Gigabit Switch,Electronics,1999
+10158,boAt BassHeads 100 Wired Earphones,Headphones & Earphones,399
+10159,Tecno Spark 20 Pro 5G,Mobile Phones,14999
+10160,Dell Inspiron 3530 Laptop i5 13th Gen,Laptops,57990
+10161,Amazfit Bip 5 Smartwatch,Fitness & Wearables,5999
+10162,Men Sweatshirt Hooded,Clothing,1299
+10163,Campus Men's Sports Shoes,Footwear,1199
+10164,Earphone Pouch Case,Accessories,299
+10165,Inalsa Hand Mixer 200W,Home Appliances,999
+10166,Tupperware Microwave Safe Bowl,Kitchenware,499
+10167,Wall Mirror 24 inch,Home Decor,1499
+10168,Rich Dad's Guide to Investing,Books,399
+10169,Glue Stick 15g,Stationery,35
+10170,Neutrogena Oil Free Moisturiser,Beauty,499
+10171,Dove Soap Beauty Cream Bar Pack of 4,Personal Care,149
+10172,Everest Pav Bhaji Masala 100g,Groceries,89
+10173,Too Yumm Millet Chips,Snacks,40
+10174,Society Tea 500g,Beverages,249
+10175,Nivia Heavy Tennis Ball Pack,Sports,199
+10176,Hand Exerciser Grip,Fitness,249
+10177,Belkin 20W USB-C Charger,Electronics,999
+10178,Sennheiser CX 80S Wired Earphones,Headphones & Earphones,2499
+10179,Nothing Phone (2a) 5G,Mobile Phones,23999
+10180,Asus Vivobook 16X Laptop,Laptops,64990
+10181,CrossBeats Ignite S2 Smartwatch,Fitness & Wearables,3499
+10182,Women Leggings High Waist,Clothing,599
+10183,Walkaroo Slippers,Footwear,499
+10184,Mobile Stand Foldable,Accessories,199
+10185,Inalsa Steam Iron 1200W,Home Appliances,999
+10186,Stainless Steel Cutlery Set 24 pcs,Kitchenware,1499
+10187,Computer Table with CPU Stand,Furniture,5999
+10188,Think and Grow Rich,Books,199
+10189,Correction Tape 6m,Stationery,45
+10190,The Body Shop Tea Tree Face Wash,Beauty,599
+10191,Sensodyne Sensitivity Toothpaste,Personal Care,199
+10192,MTR Idli & Dosa Batter 1kg,Groceries,119
+10193,Cheetos Balls 90g,Snacks,40
+10194,Horlicks Classic Malt 500g,Beverages,249
+10195,Cosco Badminton Grip,Sports,99
+10196,Ankle Weights 1kg Pair,Fitness,599
+10197,Portronics 65W GaN Charger,Electronics,2499
+10198,Realme Buds T310,Headphones & Earphones,2299
+10199,iQOO Z9 5G,Mobile Phones,19999
+10200,MSI Modern 14 Laptop i5 12th Gen,Laptops,44990
+10201,Non-Stick Kadai,Kitchenware,981
+10202,Smart Plug,Electronics,65116
+10203,Stainless Steel Lunch Box,Kitchenware,918
+10204,Wallet Leather,Accessories,1109
+10205,Mixer Grinder 1000W,Home Appliances,24576
+10206,Ceiling Fan,Home Appliances,22930
+10207,Thin & Light Laptop,Laptops,57658
+10208,Nuts Pack,Snacks,265
+10209,Wallet Leather,Accessories,2554
+10210,Casual Shirt,Clothing,1082
+10211,Slippers,Footwear,950
+10212,Fruit Juice 7L,Beverages,221
+10213,Chromebook,Laptops,34636
+10214,AMD Ryzen 5 Laptop,Laptops,31846
+10215,Gaming Laptop,Laptops,33014
+10216,Formal Shoes,Footwear,4133
+10217,Yoga Mat,Sports,3231
+10218,Hoodie,Clothing,2368
+10219,Fruit Juice 5L,Beverages,386
+10220,Salt Pack,Groceries,931
+10221,Gaming Laptop,Laptops,64055
+10222,Spices Masala,Groceries,360
+10223,Yoga Mat,Sports,743
+10224,Wireless Earbuds,Electronics,17901
+10225,Hair Oil,Beauty,1262
+10226,Skipping Rope,Sports,1782
+10227,Over-Ear Headphones,Headphones & Earphones,4209
+10228,Running Watch,Fitness & Wearables,7971
+10229,Business Book,Books,901
+10230,Face Wash,Personal Care,609
+10231,Induction Cooktop,Home Appliances,9949
+10232,Study Table,Furniture,30466
+10233,Bluetooth Speaker,Electronics,27463
+10234,Glass Water Bottle,Kitchenware,1184
+10235,Cutlery Set,Kitchenware,1684
+10236,Wired Earphones,Headphones & Earphones,9831
+10237,Deodorant,Personal Care,400
+10238,Cricket Bat,Sports,3723
+10239,Cooking Oil 7L,Groceries,783
+10240,Bluetooth Speaker,Electronics,32578
+10241,Camera Phone,Mobile Phones,15503
+10242,Sunglasses,Accessories,1951
+10243,Marker Permanent,Stationery,86
+10244,Chromebook,Laptops,48880
+10245,Salt Pack,Groceries,850
+10246,Glass Water Bottle,Kitchenware,375
+10247,Watch Strap,Accessories,809
+10248,Face Wash,Personal Care,782
+10249,Yoga Mat,Sports,1021
+10250,Camera Phone,Mobile Phones,12967
+10251,Backpack 32L,Accessories,1760
+10252,Non-Stick Kadai,Kitchenware,2554
+10253,Push-up Bars,Fitness,1976
+10254,Dumbbells Pair,Fitness,2940
+10255,Mobile Cover,Accessories,2711
+10256,Dining Table Set,Furniture,39704
+10257,Non-Stick Kadai,Kitchenware,746
+10258,Smart Plug,Electronics,24374
+10259,Air Fryer,Home Appliances,21522
+10260,Health Drink,Beverages,341
+10261,Self-Help Book,Books,195
+10262,Bed Frame,Furniture,6235
+10263,Office Chair,Furniture,19817
+10264,Programming Book,Books,876
+10265,Face Cream,Beauty,778
+10266,Running Watch,Fitness & Wearables,8590
+10267,Study Table,Furniture,27782
+10268,Nuts Pack,Snacks,107
+10269,Biography,Books,978
+10270,Highlighter Set,Stationery,169
+10271,Programming Book,Books,1145
+10272,AMD Ryzen 5 Laptop,Laptops,53215
+10273,Fruit Juice 3L,Beverages,95
+10274,Pressure Cooker 7L,Kitchenware,1361
+10275,Thin & Light Laptop,Laptops,50008
+10276,Hair Oil,Beauty,1151
+10277,Biography,Books,557
+10278,Football,Sports,3643
+10279,Glass Water Bottle,Kitchenware,839
+10280,Induction Cooktop,Home Appliances,12760
+10281,Stainless Steel Lunch Box,Kitchenware,811
+10282,Toothpaste,Personal Care,681
+10283,Cutlery Set,Kitchenware,809
+10284,Hair Oil,Beauty,620
+10285,Ball Pen Pack,Stationery,473
+10286,Gaming Laptop,Laptops,53207
+10287,Novel Bestseller,Books,416
+10288,Gaming Headset,Headphones & Earphones,14995
+10289,Atta 5kg,Groceries,460
+10290,Bookshelf,Furniture,39923
+10291,Marker Permanent,Stationery,263
+10292,Hoodie,Clothing,2814
+10293,Camera Phone,Mobile Phones,48643
+10294,Resistance Bands,Fitness,2868
+10295,Casual Shirt,Clothing,1567
+10296,Power Bank 20000mAh,Electronics,63217
+10297,Biscuits Pack,Snacks,360
+10298,Atta 10kg,Groceries,769
+10299,Heart Rate Monitor Watch,Fitness & Wearables,8810
+10300,Electric Kettle,Home Appliances,21477
+10301,Bed Frame,Furniture,4644
+10302,Gaming Phone,Mobile Phones,32587
+10303,Deodorant,Personal Care,773
+10304,Football,Sports,387
+10305,Cooking Oil 5L,Groceries,144
+10306,Namkeen Mix,Snacks,193
+10307,Biography,Books,386
+10308,Non-Stick Kadai,Kitchenware,1867
+10309,Gaming Headset,Headphones & Earphones,837
+10310,5G Smartphone 6GB RAM,Mobile Phones,36078
+10311,Ceiling Fan,Home Appliances,7685
+10312,Lipstick Matte,Beauty,656
+10313,Hoodie,Clothing,878
+10314,Neckband Earphones,Headphones & Earphones,3788
+10315,Study Table,Furniture,16433
+10316,Cricket Bat,Sports,635
+10317,Smartwatch with AMOLED,Fitness & Wearables,7427
+10318,Running Watch,Fitness & Wearables,5003
+10319,Pressure Cooker 10L,Kitchenware,2809
+10320,5G Smartphone 6GB RAM,Mobile Phones,32909
+10321,Energy Bar,Snacks,232
+10322,Men's T-Shirt,Clothing,3256
+10323,Gaming Laptop,Laptops,38804
+10324,Football,Sports,1728
+10325,Casual Shirt,Clothing,1525
+10326,Over-Ear Headphones,Headphones & Earphones,7977
+10327,Potato Chips 200g,Snacks,194
+10328,Chromebook,Laptops,36881
+10329,Business Book,Books,386
+10330,Wired Earphones,Headphones & Earphones,13093
+10331,Ab Roller,Fitness,3155
+10332,Electric Kettle,Home Appliances,11954
+10333,Ceiling Fan,Home Appliances,1204
+10334,Highlighter Set,Stationery,116
+10335,Football,Sports,4459
+10336,Potato Chips 200g,Snacks,67
+10337,Smart Plug,Electronics,26468
+10338,Bed Frame,Furniture,47253
+10339,Flagship Phone,Mobile Phones,13608
+10340,Smart Plug,Electronics,40993
+10341,Bookshelf,Furniture,28504
+10342,Highlighter Set,Stationery,381
+10343,Cutlery Set,Kitchenware,1576
+10344,Resistance Bands,Fitness,571
+10345,Watch Strap,Accessories,1471
+10346,Notebook 100 Pages,Stationery,57
+10347,Backpack 55L,Accessories,226
+10348,Salt Pack,Groceries,254
+10349,Sunscreen SPF50,Beauty,1208
+10350,Novel Bestseller,Books,524
+10351,GPS Smartwatch,Fitness & Wearables,5674
+10352,Ab Roller,Fitness,1217
+10353,Fruit Juice 3L,Beverages,411
+10354,Running Watch,Fitness & Wearables,3816
+10355,Fruit Juice 7L,Beverages,597
+10356,Mobile Cover,Accessories,1112
+10357,Yoga Mat,Sports,4738
+10358,Chromebook,Laptops,62523
+10359,Gaming Headset,Headphones & Earphones,10463
+10360,Chromebook,Laptops,52332
+10361,Mobile Cover,Accessories,1495
+10362,Non-Stick Kadai,Kitchenware,993
+10363,Cutlery Set,Kitchenware,1222
+10364,Body Lotion,Personal Care,283
+10365,Bluetooth Speaker,Electronics,30549
+10366,Backpack 50L,Accessories,2340
+10367,Smart LED TV 50 inch,Electronics,19271
+10368,Formal Shoes,Footwear,5695
+10369,Casual Shirt,Clothing,2711
+10370,Sunscreen SPF50,Beauty,1458
+10371,True Wireless Earbuds,Headphones & Earphones,6750
+10372,Atta 10kg,Groceries,584
+10373,Marker Permanent,Stationery,249
+10374,Smart Plug,Electronics,28828
+10375,Spices Masala,Groceries,1119
+10376,Face Cream,Beauty,1126
+10377,Pull-up Bar,Fitness,3060
+10378,Men's T-Shirt,Clothing,1821
+10379,Basmati Rice 1kg,Groceries,946
+10380,Non-Stick Kadai,Kitchenware,2589
+10381,Flagship Phone,Mobile Phones,47734
+10382,Casual Shirt,Clothing,936
+10383,Office Chair,Furniture,3854
+10384,Backpack 32L,Accessories,1163
+10385,Bookshelf,Furniture,18609
+10386,Resistance Bands,Fitness,3638
+10387,Stainless Steel Lunch Box,Kitchenware,2436
+10388,Gaming Laptop,Laptops,65558
+10389,Instant Coffee,Beverages,471
+10390,Pressure Cooker 5L,Kitchenware,1188
+10391,Resistance Bands,Fitness,3684
+10392,Atta 5kg,Groceries,805
+10393,Football,Sports,4778
+10394,Potato Chips 500g,Snacks,395
+10395,Body Lotion,Personal Care,92
+10396,Namkeen Mix,Snacks,21
+10397,Pressure Cooker 3L,Kitchenware,1261
+10398,Office Chair,Furniture,12194
+10399,Energy Bar,Snacks,172
+10400,Wireless Earbuds,Electronics,75763
+10401,Ceiling Fan,Home Appliances,11309
+10402,Bed Frame,Furniture,41086
+10403,Fruit Juice 7L,Beverages,433
+10404,Wired Earphones,Headphones & Earphones,9093
+10405,5G Smartphone 12GB RAM,Mobile Phones,44124
+10406,Smart LED TV 32 inch,Electronics,69675
+10407,Sandals,Footwear,1275
+10408,Bookshelf,Furniture,21455
+10409,Business Book,Books,1155
+10410,Bookshelf,Furniture,46057
+10411,Tea 500g,Beverages,163
+10412,Power Bank 10000mAh,Electronics,44801
+10413,Resistance Bands,Fitness,1502
+10414,Slippers,Footwear,1720
+10415,Dining Table Set,Furniture,22476
+10416,Deodorant,Personal Care,676
+10417,Office Chair,Furniture,2754
+10418,Running Watch,Fitness & Wearables,2717
+10419,Energy Bar,Snacks,303
+10420,Intel Core i5 Laptop,Laptops,58569
+10421,Flagship Phone,Mobile Phones,57455
+10422,Business Book,Books,629
+10423,Men's T-Shirt,Clothing,3551
+10424,Sunglasses,Accessories,643
+10425,Dining Table Set,Furniture,33084
+10426,Backpack 50L,Accessories,2031
+10427,Fitness Band,Fitness & Wearables,9310
+10428,Deodorant,Personal Care,580
+10429,Cooking Oil 7L,Groceries,184
+10430,Smart LED TV 43 inch,Electronics,54248
+10431,Resistance Bands,Fitness,3818
+10432,Dumbbells Pair,Fitness,2512
+10433,Badminton Racket,Sports,1042
+10434,AMD Ryzen 5 Laptop,Laptops,42216
+10435,Cutlery Set,Kitchenware,547
+10436,Cutlery Set,Kitchenware,2101
+10437,Salt Pack,Groceries,207
+10438,Fitness Band,Fitness & Wearables,11818
+10439,Marker Permanent,Stationery,152
+10440,Push-up Bars,Fitness,2932
+10441,Wireless Earbuds,Electronics,39440
+10442,AMD Ryzen 5 Laptop,Laptops,75998
+10443,Business Book,Books,1012
+10444,Slippers,Footwear,4185
+10445,Yoga Mat,Sports,3198
+10446,Pressure Cooker 5L,Kitchenware,2173
+10447,Smart Plug,Electronics,66959
+10448,Potato Chips 200g,Snacks,142
+10449,Neckband Earphones,Headphones & Earphones,1228
+10450,Biscuits Pack,Snacks,164
+10451,Hoodie,Clothing,773
+10452,Football,Sports,1411
+10453,Camera Phone,Mobile Phones,52843
+10454,Programming Book,Books,669
+10455,Women's Kurti,Clothing,2216
+10456,Sandals,Footwear,5613
+10457,Mixer Grinder 1000W,Home Appliances,2715
+10458,Cooking Oil 5L,Groceries,155
+10459,Formal Shoes,Footwear,1427
+10460,True Wireless Earbuds,Headphones & Earphones,14794
+10461,Office Chair,Furniture,19700
+10462,Running Watch,Fitness & Wearables,3245
+10463,Sunglasses,Accessories,1061
+10464,Dining Table Set,Furniture,2590
+10465,Lipstick Matte,Beauty,705
+10466,Neckband Earphones,Headphones & Earphones,5248
+10467,Camera Phone,Mobile Phones,49834
+10468,Football,Sports,4461
+10469,Stainless Steel Lunch Box,Kitchenware,2701
+10470,Smartwatch with AMOLED,Fitness & Wearables,7986
+10471,Flagship Phone,Mobile Phones,59198
+10472,Wallet Leather,Accessories,1685
+10473,Induction Cooktop,Home Appliances,7166
+10474,Non-Stick Kadai,Kitchenware,1185
+10475,Study Table,Furniture,37558
+10476,Wired Earphones,Headphones & Earphones,3149
+10477,Gaming Phone,Mobile Phones,41012
+10478,Air Fryer,Home Appliances,9253
+10479,Spices Masala,Groceries,436
+10480,Bed Frame,Furniture,47953
+10481,Sunglasses,Accessories,2922
+10482,Cooking Oil 7L,Groceries,1014
+10483,Running Watch,Fitness & Wearables,2474
+10484,Programming Book,Books,467
+10485,Salt Pack,Groceries,697
+10486,Ceiling Fan,Home Appliances,6619
+10487,Biscuits Pack,Snacks,341
+10488,Smart Plug,Electronics,42702
+10489,Dumbbells Pair,Fitness,2918
+10490,Gaming Headset,Headphones & Earphones,4935
+10491,Hair Oil,Beauty,646
+10492,Electric Kettle,Home Appliances,24228
+10493,Smart Plug,Electronics,65496
+10494,Air Fryer,Home Appliances,14835
+10495,Men's T-Shirt,Clothing,1431
+10496,Atta 5kg,Groceries,57
+10497,Nuts Pack,Snacks,122
+10498,Health Drink,Beverages,520
+10499,Flagship Phone,Mobile Phones,23890
+10500,Dumbbells Pair,Fitness,3590
+10501,Non-Stick Kadai,Kitchenware,981
+10502,Smart Plug,Electronics,65116
+10503,Stainless Steel Lunch Box,Kitchenware,918
+10504,Wallet Leather,Accessories,1109
+10505,Mixer Grinder 1000W,Home Appliances,24576
+10506,Ceiling Fan,Home Appliances,22930
+10507,Thin & Light Laptop,Laptops,57658
+10508,Nuts Pack,Snacks,265
+10509,Wallet Leather,Accessories,2554
+10510,Casual Shirt,Clothing,1082
+10511,Slippers,Footwear,950
+10512,Fruit Juice 7L,Beverages,221
+10513,Chromebook,Laptops,34636
+10514,AMD Ryzen 5 Laptop,Laptops,31846
+10515,Gaming Laptop,Laptops,33014
+10516,Formal Shoes,Footwear,4133
+10517,Yoga Mat,Sports,3231
+10518,Hoodie,Clothing,2368
+10519,Fruit Juice 5L,Beverages,386
+10520,Salt Pack,Groceries,931
+10521,Gaming Laptop,Laptops,64055
+10522,Spices Masala,Groceries,360
+10523,Yoga Mat,Sports,743
+10524,Wireless Earbuds,Electronics,17901
+10525,Hair Oil,Beauty,1262
+10526,Skipping Rope,Sports,1782
+10527,Over-Ear Headphones,Headphones & Earphones,4209
+10528,Running Watch,Fitness & Wearables,7971
+10529,Business Book,Books,901
+10530,Face Wash,Personal Care,609
+10531,Induction Cooktop,Home Appliances,9949
+10532,Study Table,Furniture,30466
+10533,Bluetooth Speaker,Electronics,27463
+10534,Glass Water Bottle,Kitchenware,1184
+10535,Cutlery Set,Kitchenware,1684
+10536,Wired Earphones,Headphones & Earphones,9831
+10537,Deodorant,Personal Care,400
+10538,Cricket Bat,Sports,3723
+10539,Cooking Oil 7L,Groceries,783
+10540,Bluetooth Speaker,Electronics,32578
+10541,Camera Phone,Mobile Phones,15503
+10542,Sunglasses,Accessories,1951
+10543,Marker Permanent,Stationery,86
+10544,Chromebook,Laptops,48880
+10545,Salt Pack,Groceries,850
+10546,Glass Water Bottle,Kitchenware,375
+10547,Watch Strap,Accessories,809
+10548,Face Wash,Personal Care,782
+10549,Yoga Mat,Sports,1021
+10550,Camera Phone,Mobile Phones,12967
+10551,Backpack 32L,Accessories,1760
+10552,Non-Stick Kadai,Kitchenware,2554
+10553,Push-up Bars,Fitness,1976
+10554,Dumbbells Pair,Fitness,2940
+10555,Mobile Cover,Accessories,2711
+10556,Dining Table Set,Furniture,39704
+10557,Non-Stick Kadai,Kitchenware,746
+10558,Smart Plug,Electronics,24374
+10559,Air Fryer,Home Appliances,21522
+10560,Health Drink,Beverages,341
+10561,Self-Help Book,Books,195
+10562,Bed Frame,Furniture,6235
+10563,Office Chair,Furniture,19817
+10564,Programming Book,Books,876
+10565,Face Cream,Beauty,778
+10566,Running Watch,Fitness & Wearables,8590
+10567,Study Table,Furniture,27782
+10568,Nuts Pack,Snacks,107
+10569,Biography,Books,978
+10570,Highlighter Set,Stationery,169
+10571,Programming Book,Books,1145
+10572,AMD Ryzen 5 Laptop,Laptops,53215
+10573,Fruit Juice 3L,Beverages,95
+10574,Pressure Cooker 7L,Kitchenware,1361
+10575,Thin & Light Laptop,Laptops,50008
+10576,Hair Oil,Beauty,1151
+10577,Biography,Books,557
+10578,Football,Sports,3643
+10579,Glass Water Bottle,Kitchenware,839
+10580,Induction Cooktop,Home Appliances,12760
+10581,Stainless Steel Lunch Box,Kitchenware,811
+10582,Toothpaste,Personal Care,681
+10583,Cutlery Set,Kitchenware,809
+10584,Hair Oil,Beauty,620
+10585,Ball Pen Pack,Stationery,473
+10586,Gaming Laptop,Laptops,53207
+10587,Novel Bestseller,Books,416
+10588,Gaming Headset,Headphones & Earphones,14995
+10589,Atta 5kg,Groceries,460
+10590,Bookshelf,Furniture,39923
+10591,Marker Permanent,Stationery,263
+10592,Hoodie,Clothing,2814
+10593,Camera Phone,Mobile Phones,48643
+10594,Resistance Bands,Fitness,2868
+10595,Casual Shirt,Clothing,1567
+10596,Power Bank 20000mAh,Electronics,63217
+10597,Biscuits Pack,Snacks,360
+10598,Atta 10kg,Groceries,769
+10599,Heart Rate Monitor Watch,Fitness & Wearables,8810
+10600,Electric Kettle,Home Appliances,21477
+10601,Bed Frame,Furniture,4644
+10602,Gaming Phone,Mobile Phones,32587
+10603,Deodorant,Personal Care,773
+10604,Football,Sports,387
+10605,Cooking Oil 5L,Groceries,144
+10606,Namkeen Mix,Snacks,193
+10607,Biography,Books,386
+10608,Non-Stick Kadai,Kitchenware,1867
+10609,Gaming Headset,Headphones & Earphones,837
+10610,5G Smartphone 6GB RAM,Mobile Phones,36078
+10611,Ceiling Fan,Home Appliances,7685
+10612,Lipstick Matte,Beauty,656
+10613,Hoodie,Clothing,878
+10614,Neckband Earphones,Headphones & Earphones,3788
+10615,Study Table,Furniture,16433
+10616,Cricket Bat,Sports,635
+10617,Smartwatch with AMOLED,Fitness & Wearables,7427
+10618,Running Watch,Fitness & Wearables,5003
+10619,Pressure Cooker 10L,Kitchenware,2809
+10620,5G Smartphone 6GB RAM,Mobile Phones,32909
+10621,Energy Bar,Snacks,232
+10622,Men's T-Shirt,Clothing,3256
+10623,Gaming Laptop,Laptops,38804
+10624,Football,Sports,1728
+10625,Casual Shirt,Clothing,1525
+10626,Over-Ear Headphones,Headphones & Earphones,7977
+10627,Potato Chips 200g,Snacks,194
+10628,Chromebook,Laptops,36881
+10629,Business Book,Books,386
+10630,Wired Earphones,Headphones & Earphones,13093
+10631,Ab Roller,Fitness,3155
+10632,Electric Kettle,Home Appliances,11954
+10633,Ceiling Fan,Home Appliances,1204
+10634,Highlighter Set,Stationery,116
+10635,Football,Sports,4459
+10636,Potato Chips 200g,Snacks,67
+10637,Smart Plug,Electronics,26468
+10638,Bed Frame,Furniture,47253
+10639,Flagship Phone,Mobile Phones,13608
+10640,Smart Plug,Electronics,40993
+10641,Bookshelf,Furniture,28504
+10642,Highlighter Set,Stationery,381
+10643,Cutlery Set,Kitchenware,1576
+10644,Resistance Bands,Fitness,571
+10645,Watch Strap,Accessories,1471
+10646,Notebook 100 Pages,Stationery,57
+10647,Backpack 55L,Accessories,226
+10648,Salt Pack,Groceries,254
+10649,Sunscreen SPF50,Beauty,1208
+10650,Novel Bestseller,Books,524
+10651,Novel Bestseller,Books,385
+10652,Dumbbells Pair,Fitness,2145
+10653,Energy Bar,Snacks,386
+10654,Men's T-Shirt,Clothing,2544
+10655,Spices Masala,Groceries,35
+10656,Air Fryer,Home Appliances,19323
+10657,Skipping Rope,Sports,227
+10658,Notebook 300 Pages,Stationery,386
+10659,Potato Chips 200g,Snacks,387
+10660,Health Drink,Beverages,87
+10661,Running Shoes,Footwear,944
+10662,Cooking Oil 3L,Groceries,570
+10663,Running Watch,Fitness & Wearables,7214
+10664,Instant Coffee,Beverages,248
+10665,Gaming Headset,Headphones & Earphones,3715
+10666,Backpack 65L,Accessories,428
+10667,Intel Core i5 Laptop,Laptops,105195
+10668,Smart Plug,Electronics,60531
+10669,Jeans Slim Fit,Clothing,2702
+10670,Smart Plug,Electronics,64559
+10671,Biscuits Pack,Snacks,66
+10672,Sticky Notes,Stationery,382
+10673,Ceiling Fan,Home Appliances,9654
+10674,Cooking Oil 5L,Groceries,647
+10675,Cooking Oil 7L,Groceries,625
+10676,Pressure Cooker 10L,Kitchenware,2609
+10677,Running Shoes,Footwear,3441
+10678,Face Cream,Beauty,945
+10679,Wired Earphones,Headphones & Earphones,13597
+10680,Notebook 100 Pages,Stationery,431
+10681,Electric Kettle,Home Appliances,18964
+10682,Air Fryer,Home Appliances,11312
+10683,Sunglasses,Accessories,438
+10684,Jeans Slim Fit,Clothing,2368
+10685,Intel Core i5 Laptop,Laptops,104156
+10686,Stainless Steel Lunch Box,Kitchenware,1813
+10687,GPS Smartwatch,Fitness & Wearables,9838
+10688,Slippers,Footwear,3236
+10689,Smartwatch with AMOLED,Fitness & Wearables,2024
+10690,Highlighter Set,Stationery,326
+10691,Induction Cooktop,Home Appliances,1246
+10692,Non-Stick Kadai,Kitchenware,1276
+10693,Women's Kurti,Clothing,1788
+10694,Business Book,Books,469
+10695,5G Smartphone 4GB RAM,Mobile Phones,45072
+10696,Mixer Grinder 500W,Home Appliances,18998
+10697,Dumbbells Pair,Fitness,2515
+10698,GPS Smartwatch,Fitness & Wearables,2147
+10699,Hair Oil,Beauty,375
+10700,Women's Kurti,Clothing,2988

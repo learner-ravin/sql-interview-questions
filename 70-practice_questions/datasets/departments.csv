@@ -1,0 +1,11 @@
+dept_id,dept_name,city
+101,Engineering,"San Francisco"
+102,"Product Management",Seattle
+103,Marketing,"New York"
+104,Sales,Chicago
+105,Finance,Boston
+106,"Human Resources",Austin
+107,"Customer Success",Atlanta
+108,"Data Science","San Francisco"
+109,"Legal & Compliance",Washington
+110,Operations,Denver
